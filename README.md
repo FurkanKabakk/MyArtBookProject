@@ -1,0 +1,2 @@
+# MyArtBookProject
+ Core Data kullanımı
